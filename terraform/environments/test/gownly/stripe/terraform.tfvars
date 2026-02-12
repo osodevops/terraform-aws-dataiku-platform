@@ -6,4 +6,5 @@ common_tags = {
   Application = "Gownly"
   Environment = "test"
   Tooling     = "Terraform"
+  ManagedBy   = "terraform"
 }
