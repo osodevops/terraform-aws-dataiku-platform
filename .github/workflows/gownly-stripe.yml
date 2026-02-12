@@ -1,6 +1,7 @@
 name: "Gownly Stripe - Terraform"
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
